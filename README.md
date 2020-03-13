@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/SPTRANS-Pagamentos.svg)](http://hits.dwyl.com/learning-crawlers/SPTRANS-Pagamentos)
+
 # SPTRANS Folha De Pagamentos
 Extração de dados com Requests para listar pagamentos da SPTRANS - São Paulo Transporte
 
